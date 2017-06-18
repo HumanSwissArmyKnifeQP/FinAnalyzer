@@ -1,4 +1,4 @@
-# (2016/06/16) NB: Yahoo has changed their finance API. You will need to manually update this code to account for the new API host as well set the correct cookies. 
+# (2017/06/16) NB: Yahoo has changed their finance API. You will need to manually update this code to account for the new API host as well set the correct cookies. 
 
 # FinAnalyzer
 **Motto:** Making investing easy!
